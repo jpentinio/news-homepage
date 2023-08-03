@@ -23,7 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot-desktop](./public/screenshot-desktop.png)
+
+![screenshot-mobile](./public/screenshot-mobile.png)
+
+![screenshot-drawer](./public/screenshot-drawer.JPG)
 
 ### Links
 
