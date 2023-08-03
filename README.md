@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [News homepage solution](https://www.frontendmentor.io/solutions/news-homepage-using-react-and-tailwindcss-r9yT-lkaNc)
+- Live Site URL: [News homepage live site](https://news-homepage-six-kohl.vercel.app/)
 
 ## My process
 
